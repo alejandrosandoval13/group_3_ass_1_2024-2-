@@ -5,6 +5,6 @@
 3. Interest: I would like to study information on digital maturity in entreprises within Peru
 
 ## Camila
-Database: Veritrade
-Information: Data about agricultural trucks in Chile period 2019 - 2023
-Interest: My interests are focused on the agricultural sector, I would like to analyze imports in Chile, since it is a leading country in agriculture worldwide.
+1. Database: Veritrade
+2. Information: Data about agricultural trucks in Chile period 2019 - 2023
+3. Interest: My interests are focused on the agricultural sector, I would like to analyze imports in Chile, since it is a leading country in agriculture worldwide.
